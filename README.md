@@ -1,5 +1,5 @@
 # chatroom2
-网页聊天室 你懂得
+使用severlet ajax 实现的一个网页版的聊天室
 
 
 
